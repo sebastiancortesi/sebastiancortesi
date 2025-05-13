@@ -13,35 +13,35 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dawn Langan Teele / Home"
+title                    : "Sebastian Cortesi / Home"
 title_separator          : "-"
-name                     : &name "Dawn Teele"
-description              : &description "SNF Agora Institute Associate Professor of Political Science, Johns Hopkins University"
-url                      : https://dawnteele.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Sebastian Cortesi"
+description              : &description "PhD Candidate, Johns Hopkins University, Political Science Department"
+url                      : https://sebastiancortesi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dawnteele/dawnteele.github.io"
+repository               : "https://sebastiancortesi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1054f.jpg"
-  name             : "Dawn Langan Teele\n"
-  pronouns         : # example: "she/her"  
-  bio              : "SNF Agora Associate Professor <br>
-                      Department of Political Science <br> 
-                      Johns Hopkins University"
-  location         : #"Baltimore"
+  avatar           : "images/headshot Cortesi.JPG"
+  name             : "Sebastian Cortesi"
+  pronouns         : 
+  bio              : "PhD Candidate <br>
+                      "Department of Political Science <br> 
+                      "Johns Hopkins University"
+  location         : "Baltimore"
   employer         : "Johns Hopkins University"
-  uri              : https://snfagora.jhu.edu/person/dawn-teele/
-  email            : "teele.academic@gmail.com" 
+  uri              : 
+  email            : "scortes5@jh.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=KRa-DrYAAAAJ&hl=en&oi=ao"
-  ssrn      : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1710809"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  googlescholar    : 
+  ssrn      : 
+  orcid            : "https://orcid.org/0009-0002-0815-9297"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
