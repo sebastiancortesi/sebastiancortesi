@@ -1,0 +1,7 @@
+---
+title: "Officeholding Requirements and the Fiscal Consequences Democratization"
+collection: manuscripts
+date: 2024-04-01
+authors: "Sebastián Cortesi"
+journal: "World Politics (revise & resubmit)"
+---
